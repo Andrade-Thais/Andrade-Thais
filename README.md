@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Andrade-Thais
 - Sou uma entusiasta da programação e uma apaixonada por novos desafios;
-- 🌱 I’m currently learning Front-End e Back-End e JAVA;
 - 📫 How to reach me https://www.linkedin.com/in/andrade-thais-/
 - ⚡ Sou motorista de aplicativo na cidade de Sâo Paulo 🚗.
 
